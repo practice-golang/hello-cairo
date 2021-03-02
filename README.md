@@ -1,1 +1,1 @@
-Try `go-cairo-example` in [go-cairo](https://github.com/ungerik/go-cairo) using [MinGW-W64 x86_64-posix-seh](https://github.com/brechtsanders/winlibs_mingw) & [dependencies](./dependencies) on `Windows`
+Try `go-cairo-example` in [go-cairo](https://github.com/ungerik/go-cairo) using [MinGW-W64 x86_64-posix-seh](https://github.com/brechtsanders/winlibs_mingw) & [dependencies](./dependencies) on `MS-Windows`
